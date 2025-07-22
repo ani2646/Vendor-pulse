@@ -78,10 +78,6 @@ In a competitive retail environment, efficient vendor management and optimized i
 - KPI Identification & Measurement  
 - Dashboard Development (Power BI)  
 
----
-
-## 📁 Project Structure
-
 
 ---
 
